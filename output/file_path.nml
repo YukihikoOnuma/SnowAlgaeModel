@@ -1,0 +1,5 @@
+&FPATH
+  fname = "snowalgae_2015_Livingston_wfdei"
+  infile = "../input",
+  outfile = ".",
+/

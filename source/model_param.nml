@@ -1,0 +1,10 @@
+&MPARA
+  delt_t = 3600,
+  dtype = 60,
+  cal_step = 3600,
+  inalg_s = 6.33,
+  gralg_s = 0.018,
+  capalg_s = 3.5e7,
+  volalg_s = 5.06e-9,
+  abstmp = 273.14999,
+/
