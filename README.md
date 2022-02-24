@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/451470968.svg)](https://zenodo.org/badge/latestdoi/451470968)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYukihikoOnuma%2FSnowAlgaeModel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <HTML><h3>Terms and Conditions for using Snow Algae Model:</h3>
 
 <BIG><B><U>A user must agree to following terms and conditions before usage.</U></B></BIG>
